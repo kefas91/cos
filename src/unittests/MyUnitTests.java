@@ -63,7 +63,7 @@ public class MyUnitTests
 	public void testGetArrayListElement() 
 	{
 		my.getArrayListElement(0);
-		my.getArrayListElement(1);
 		my.getArrayListElement(2);
+		my.getArrayListElement(1);
 	}
 }
